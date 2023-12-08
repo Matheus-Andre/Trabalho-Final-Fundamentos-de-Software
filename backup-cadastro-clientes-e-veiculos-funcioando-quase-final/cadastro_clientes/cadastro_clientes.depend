@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1701973185 source:c:\users\jorge\onedrive\Área de trabalho\verde\biblioteca\locadora_functionseparados\cadastro_clientes\main.cpp
+	<vector>
+	<string>
+	<iostream>
+	<sstream>
+	<locale>
+	<limits>
+	<fstream>
+	<cctype>
+
